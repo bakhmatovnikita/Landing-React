@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Landing-React/static/css/main.a11f53de.chunk.css",
+    "main.js": "/Landing-React/static/js/main.a80e7bbc.chunk.js",
+    "main.js.map": "/Landing-React/static/js/main.a80e7bbc.chunk.js.map",
+    "runtime-main.js": "/Landing-React/static/js/runtime-main.d3bf1be9.js",
+    "runtime-main.js.map": "/Landing-React/static/js/runtime-main.d3bf1be9.js.map",
+    "static/js/2.c008964b.chunk.js": "/Landing-React/static/js/2.c008964b.chunk.js",
+    "static/js/2.c008964b.chunk.js.map": "/Landing-React/static/js/2.c008964b.chunk.js.map",
+    "static/js/3.3898bbd4.chunk.js": "/Landing-React/static/js/3.3898bbd4.chunk.js",
+    "static/js/3.3898bbd4.chunk.js.map": "/Landing-React/static/js/3.3898bbd4.chunk.js.map",
+    "index.html": "/Landing-React/index.html",
+    "static/css/main.a11f53de.chunk.css.map": "/Landing-React/static/css/main.a11f53de.chunk.css.map",
+    "static/js/2.c008964b.chunk.js.LICENSE.txt": "/Landing-React/static/js/2.c008964b.chunk.js.LICENSE.txt",
+    "static/media/Rectangle_1.b671f575.png": "/Landing-React/static/media/Rectangle_1.b671f575.png",
+    "static/media/Rectangle_2.8c027184.png": "/Landing-React/static/media/Rectangle_2.8c027184.png",
+    "static/media/Rectangle_3.c2bf962b.png": "/Landing-React/static/media/Rectangle_3.c2bf962b.png",
+    "static/media/Rectangle_4.42be6a09.png": "/Landing-React/static/media/Rectangle_4.42be6a09.png",
+    "static/media/Rectangle_5.1cf00924.png": "/Landing-React/static/media/Rectangle_5.1cf00924.png",
+    "static/media/index.css": "/Landing-React/static/media/hero.699dda97.png",
+    "static/media/close_icon.c04519a7.svg": "/Landing-React/static/media/close_icon.c04519a7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3bf1be9.js",
+    "static/js/2.c008964b.chunk.js",
+    "static/css/main.a11f53de.chunk.css",
+    "static/js/main.a80e7bbc.chunk.js"
+  ]
+}
