@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b643117.chunk.css",
-    "main.js": "/static/js/main.cd364f57.chunk.js",
-    "main.js.map": "/static/js/main.cd364f57.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8be81743.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8be81743.js.map",
-    "static/js/2.94dfffaf.chunk.js": "/static/js/2.94dfffaf.chunk.js",
-    "static/js/2.94dfffaf.chunk.js.map": "/static/js/2.94dfffaf.chunk.js.map",
-    "static/js/3.f8093fbf.chunk.js": "/static/js/3.f8093fbf.chunk.js",
-    "static/js/3.f8093fbf.chunk.js.map": "/static/js/3.f8093fbf.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.0b643117.chunk.css.map": "/static/css/main.0b643117.chunk.css.map",
-    "static/js/2.94dfffaf.chunk.js.LICENSE.txt": "/static/js/2.94dfffaf.chunk.js.LICENSE.txt",
-    "static/media/Rectangle_1.461c72a9.png": "/static/media/Rectangle_1.461c72a9.png",
-    "static/media/Rectangle_2.70fd208a.png": "/static/media/Rectangle_2.70fd208a.png",
-    "static/media/Rectangle_3.0c97c345.png": "/static/media/Rectangle_3.0c97c345.png",
-    "static/media/Rectangle_4.4f8a5bef.png": "/static/media/Rectangle_4.4f8a5bef.png",
-    "static/media/Rectangle_5.c2ad11fe.png": "/static/media/Rectangle_5.c2ad11fe.png",
-    "static/media/index.css": "/static/media/hero.755f8265.png",
-    "static/media/logo.186a9f64.png": "/static/media/logo.186a9f64.png"
+    "main.css": "/Landing-React/static/css/main.a11f53de.chunk.css",
+    "main.js": "/Landing-React/static/js/main.e0cd6a1c.chunk.js",
+    "main.js.map": "/Landing-React/static/js/main.e0cd6a1c.chunk.js.map",
+    "runtime-main.js": "/Landing-React/static/js/runtime-main.d3bf1be9.js",
+    "runtime-main.js.map": "/Landing-React/static/js/runtime-main.d3bf1be9.js.map",
+    "static/js/2.c008964b.chunk.js": "/Landing-React/static/js/2.c008964b.chunk.js",
+    "static/js/2.c008964b.chunk.js.map": "/Landing-React/static/js/2.c008964b.chunk.js.map",
+    "static/js/3.3898bbd4.chunk.js": "/Landing-React/static/js/3.3898bbd4.chunk.js",
+    "static/js/3.3898bbd4.chunk.js.map": "/Landing-React/static/js/3.3898bbd4.chunk.js.map",
+    "index.html": "/Landing-React/index.html",
+    "static/css/main.a11f53de.chunk.css.map": "/Landing-React/static/css/main.a11f53de.chunk.css.map",
+    "static/js/2.c008964b.chunk.js.LICENSE.txt": "/Landing-React/static/js/2.c008964b.chunk.js.LICENSE.txt",
+    "static/media/Rectangle_1.b671f575.png": "/Landing-React/static/media/Rectangle_1.b671f575.png",
+    "static/media/Rectangle_2.8c027184.png": "/Landing-React/static/media/Rectangle_2.8c027184.png",
+    "static/media/Rectangle_3.c2bf962b.png": "/Landing-React/static/media/Rectangle_3.c2bf962b.png",
+    "static/media/Rectangle_4.42be6a09.png": "/Landing-React/static/media/Rectangle_4.42be6a09.png",
+    "static/media/Rectangle_5.1cf00924.png": "/Landing-React/static/media/Rectangle_5.1cf00924.png",
+    "static/media/index.css": "/Landing-React/static/media/hero.699dda97.png",
+    "static/media/close_icon.c04519a7.svg": "/Landing-React/static/media/close_icon.c04519a7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8be81743.js",
-    "static/js/2.94dfffaf.chunk.js",
-    "static/css/main.0b643117.chunk.css",
-    "static/js/main.cd364f57.chunk.js"
+    "static/js/runtime-main.d3bf1be9.js",
+    "static/js/2.c008964b.chunk.js",
+    "static/css/main.a11f53de.chunk.css",
+    "static/js/main.e0cd6a1c.chunk.js"
   ]
 }
